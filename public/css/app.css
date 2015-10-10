@@ -1,0 +1,18 @@
+.panel-default.panel-tab{
+    border-top: 0;
+    border-radius: 0 0 5px 5px;
+}
+.crud .box-footer{
+	text-align: right;
+}
+.crud .table th{
+	text-align: center;
+}
+.form-control {
+    border-radius: 4px;
+}
+.input-group .input-group-addon:first-child {
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    background-color: #eee;
+}

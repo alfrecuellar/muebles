@@ -1,0 +1,8 @@
+/vendor
+/node_modules
+.env
+/bower_components
+*.bak
+/public/vendor
+Thumbs.db
+storage/
